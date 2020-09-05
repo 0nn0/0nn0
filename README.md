@@ -1,3 +1,5 @@
+![Tempo email client](https://github.com/0nn0/0nn0/raw/master/tempo.png)
+
 👋 Hi! I work at [Tempo](https://www.yourtempo.co) were we -  a team of 7 spread over Europe - are building the email client that helps you focus. One that shields you from the chaos of incoming email and guides you into more mindful email behavior.
 
 My work at Tempo centers around product, front-end development and project management.
