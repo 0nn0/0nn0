@@ -2,6 +2,4 @@
 
 My work at Tempo centers around product, front-end development and project management.
 
-📱 At Tempo we're looking for a [iOS and/or React-Native developer](https://www.yourtempo.co/positions/react-native-developer) to help us building the mobile app. If this sounds like you or anyone you know then please reach out to me through onno@yourtempo.co.
-
-You can follow me on [@0nn0](https://twitter.com/0nn0)
+📱 At Tempo we're looking for a [iOS and/or React-Native developer](https://www.yourtempo.co/positions/react-native-developer) to help us build the mobile app. If this sounds like you or anyone you know then please reach out to me through onno@yourtempo.co.
