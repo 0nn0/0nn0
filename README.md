@@ -1,7 +1,5 @@
 ![Tempo email client](https://github.com/0nn0/0nn0/raw/master/tempo.png)
 
-👋 Hi! I work at [Tempo](https://www.yourtempo.co) were we -  a team of 7 spread over Europe - are building the email client that helps you focus. One that shields you from the chaos of incoming email and guides you into more mindful email behavior.
+👋 Hi! I work at [Tempo](https://www.yourtempo.co) were we -  a team of 7 spread over Europe - are building the email client that helps you focus. With Tempo, we want to help you to have more uninterrupted time to do the real work.
 
-👨‍💻 My work at Tempo centers around product, front-end development and project management.
-
-📣 At Tempo we're looking for a [iOS and/or React-Native developer](https://www.yourtempo.co/positions/react-native-developer) to help us build the mobile app. If this sounds like you or anyone you know then please reach out to me through onno@yourtempo.co.
+📣 We are looking for a [senior developer](https://www.yourtempo.co/positions/senior-developer). If this sounds like you or anyone you know, then please reach out to me through onno@yourtempo.co.
